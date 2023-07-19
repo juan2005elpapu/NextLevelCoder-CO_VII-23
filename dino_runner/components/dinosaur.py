@@ -8,7 +8,7 @@ from dino_runner.utils.constants import (
 class Dinosaur(Sprite):
     POS_X = 80
     POS_Y = 300
-    DUCK_POS_Y = 340
+    DUCK_POS_Y = 320
     JUMP_VEL = 8.5
 
     def __init__(self):
